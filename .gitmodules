@@ -7,4 +7,4 @@
 	url = https://github.com/mthulin/boot.pval
 [submodule "ivo.table"]
 	path = ivo.table
-	url = https://github.com/cran/ivo.table
+	url = https://github.com/mthulin/ivo.table
